@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # BooksApiLaravel
 API REST Laravel
 =======
@@ -69,3 +70,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 >>>>>>> eb09095 (base project laravel)
+=======
+# Api of books
+>>>>>>> 321d1aa (Unit tests are implemented to the book api)
